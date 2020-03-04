@@ -7,7 +7,7 @@ I tried to create a concept of browser extension that will mix up your personal 
 
 [__Link to xd file:__](assets/Ms2personal.xd)
 
-![img](assets/personal.png )(assets/Ms2personal.xd)
+![img](assets/personal.png )
 
 
 ### Conclusion:
