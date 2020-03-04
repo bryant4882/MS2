@@ -20,7 +20,7 @@ I gave my youtube acount to a fellow DT student for 5 days, with the following i
 * A "somewhat" reformed Youtube personal home page, with recommendations for both of my old (original) ID and the newly introduced.
 * A observable inconsistancy on what the algrithism had predicted my next or habit of videos are.
 * Diverse recorded viewing history throughout the process.
-* New uploads / comments / likes .......(social engagements performed by the DT fellow.
+* New uploads / comments / likes .......(social engagements performed by the DT fellow).
 
 ![img powerpuff](assets/1.png)![img powerpuff](assets/2.png)
 ![img powerpuff](assets/0.png)
