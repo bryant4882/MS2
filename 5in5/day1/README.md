@@ -29,6 +29,7 @@ I gave my youtube acount to a fellow DT student for 5 days, with the following i
 * No obserable recommendations for the new user untill the 7th line at home page.
 * New diversed viewing history (shaders tutorial, power puff girls...).
 * No new subscriptions, comments...
+* 2 new videos apperas to be tech demos with shaders.
 
 ### Conclusion:
 
