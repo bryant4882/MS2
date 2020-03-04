@@ -6,4 +6,3 @@ Considering potentials for later working timelines, possible elements to mapp/do
 ![img](assets/1.jpg)
 ![img](assets/2.jpg)
 
-
